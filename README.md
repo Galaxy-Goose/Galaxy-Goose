@@ -18,11 +18,11 @@
 
 ---
 
-<img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&theme=tokyonight&background=0d1117&hide_border=true&ring=7c7cff&fire=4A6BE1&currStreakLabel=7c7cff&sideLabels=c9d1d9" width="100%" />
+<img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&theme=tokyonight&background=0d1117&hide_border=true&ring=7c7cff&fire=4A6BE1&currStreakLabel=7c7cff&sideLabels=c9d1d9" width="70%" />
 
 <br/><br/>
 
-<img src="furina.png" alt="Furina" width="80%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(74, 107, 225, 0.3);" />
+<img src="furina.png" alt="Furina" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(74, 107, 225, 0.3);" />
 
 <br/><br/>
 

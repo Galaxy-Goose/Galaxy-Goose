@@ -12,7 +12,7 @@
 
 **I am Human.**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=6cd9ff&center=true&vCenter=true&width=500&lines=%22Weakness+and+ignorance+are+not+barriers+to+survival%3B+arrogance+is.%22" alt="Quote" />
+<p style="color: #6cd9ff; font-style: italic; font-size: 1.1em;">"Weakness and ignorance are not barriers to survival; arrogance is."</p>
 
 <br/>
 

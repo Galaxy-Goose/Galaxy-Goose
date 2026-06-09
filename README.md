@@ -18,15 +18,14 @@
 
 ---
 
-<img src="https://github-readme-stats.shion.dev/api?username=Galaxy-Goose&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=transparent&amp;show=prs_merged&amp;number_format=long&amp;count_private=true&amp;include_all_commits=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=1f6feb" width="70%" alt="Profile Stats" title="Profile Stats" />
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Galaxy-Goose&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=transparent&amp;show=prs_merged&amp;number_format=long&amp;count_private=true&amp;include_all_commits=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=1f6feb" width="390" alt="Profile Stats" title="Profile Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&amp;theme=tokyonight&amp;background=0d1117&amp;hide_border=true&amp;ring=58a6ff&amp;fire=1f6feb&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;currStreakNum=79c0ff&amp;sideNums=79c0ff" width="390" alt="GitHub Streak" title="GitHub Streak" />
+</p>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&amp;theme=tokyonight&amp;background=0d1117&amp;hide_border=true&amp;ring=58a6ff&amp;fire=1f6feb&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;currStreakNum=79c0ff&amp;sideNums=79c0ff" width="70%" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="furina.png" alt="Furina" width="100%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 111, 235, 0.35);" />
+<img src="furina.png" alt="Furina" width="92%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 111, 235, 0.35);" />
 
 <br/><br/>
 

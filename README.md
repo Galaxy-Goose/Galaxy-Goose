@@ -2,7 +2,7 @@
 
 <h1 style="color: #58a6ff; font-size: 2.6em; margin-bottom: 5px;">Galaxy-Goose</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&weight=700&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Developer+%7C+Gamer+%7C+Human;Eternity+is+the+way+of+the+world" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&amp;weight=700&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=58A6FF&amp;center=true&amp;vCenter=true&amp;multiline=true&amp;repeat=true&amp;width=600&amp;height=100&amp;lines=Developer+%7C+Gamer+%7C+Human;Eternity+is+the+way+of+the+world" alt="Typing SVG" />
 
 <br/>
 
@@ -18,11 +18,11 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Galaxy-Goose&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&ring_color=58a6ff" width="70%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Galaxy-Goose&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=1f6feb" width="70%" alt="GitHub Stats" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&theme=tokyonight&background=0d1117&hide_border=true&ring=58a6ff&fire=1f6feb&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=79c0ff&sideNums=79c0ff" width="70%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Galaxy-Goose&amp;theme=tokyonight&amp;background=0d1117&amp;hide_border=true&amp;ring=58a6ff&amp;fire=1f6feb&amp;currStreakLabel=58a6ff&amp;sideLabels=c9d1d9&amp;currStreakNum=79c0ff&amp;sideNums=79c0ff" width="70%" alt="GitHub Streak" />
 
 <br/><br/>
 
@@ -30,6 +30,6 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:58a6ff&height=100&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1f6feb,100:58a6ff&amp;height=100&amp;section=footer" width="100%" alt="Footer" />
 
 </div>

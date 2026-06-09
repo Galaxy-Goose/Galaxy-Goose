@@ -18,7 +18,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Galaxy-Goose&amp;show_icons=true&amp;theme=github_dark&amp;include_all_commits=true&amp;count_private=true&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=1f6feb" width="70%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=Galaxy-Goose&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=transparent&amp;show=prs_merged&amp;number_format=long&amp;count_private=true&amp;include_all_commits=true&amp;title_color=58a6ff&amp;text_color=c9d1d9&amp;icon_color=1f6feb" width="70%" alt="Profile Stats" title="Profile Stats" />
 
 <br/><br/>
 

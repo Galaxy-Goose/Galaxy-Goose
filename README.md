@@ -25,7 +25,7 @@
 
 <br/>
 
-<img src="furina.png" alt="Furina" width="92%" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(31, 111, 235, 0.35);" />
+<img src="furina.png" alt="Furina" width="100%" style="border-radius: 32px; box-shadow: 0 8px 32px rgba(31, 111, 235, 0.35);" />
 
 <br/><br/>
 
